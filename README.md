@@ -234,3 +234,6 @@ This repository serves as the official landing page for Cars 2 Color. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cars 2 Color today!**
+
+---
+**Last updated:** 2026-09-11 13:56:00 UTC
